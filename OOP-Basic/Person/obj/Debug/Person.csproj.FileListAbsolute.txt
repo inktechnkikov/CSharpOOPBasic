@@ -1,0 +1,7 @@
+D:\projects\C#OOP-Basic\OOP-Basic\Person\bin\Debug\Person.exe.config
+D:\projects\C#OOP-Basic\OOP-Basic\Person\bin\Debug\Person.exe
+D:\projects\C#OOP-Basic\OOP-Basic\Person\bin\Debug\Person.pdb
+D:\projects\C#OOP-Basic\OOP-Basic\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+D:\projects\C#OOP-Basic\OOP-Basic\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+D:\projects\C#OOP-Basic\OOP-Basic\Person\obj\Debug\Person.exe
+D:\projects\C#OOP-Basic\OOP-Basic\Person\obj\Debug\Person.pdb

@@ -1,0 +1,7 @@
+D:\projects\C#OOP-Basic\OOP-Basic\Encapsulation\obj\Debug\Encapsulation.csprojResolveAssemblyReference.cache
+D:\projects\C#OOP-Basic\OOP-Basic\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+D:\projects\C#OOP-Basic\OOP-Basic\Encapsulation\bin\Debug\Encapsulation.exe.config
+D:\projects\C#OOP-Basic\OOP-Basic\Encapsulation\bin\Debug\Encapsulation.exe
+D:\projects\C#OOP-Basic\OOP-Basic\Encapsulation\bin\Debug\Encapsulation.pdb
+D:\projects\C#OOP-Basic\OOP-Basic\Encapsulation\obj\Debug\Encapsulation.exe
+D:\projects\C#OOP-Basic\OOP-Basic\Encapsulation\obj\Debug\Encapsulation.pdb

@@ -1,0 +1,7 @@
+D:\projects\C#OOP-Basic\OOP-Basic\FirstClass\bin\Debug\FirstClass.exe.config
+D:\projects\C#OOP-Basic\OOP-Basic\FirstClass\bin\Debug\FirstClass.exe
+D:\projects\C#OOP-Basic\OOP-Basic\FirstClass\bin\Debug\FirstClass.pdb
+D:\projects\C#OOP-Basic\OOP-Basic\FirstClass\obj\Debug\FirstClass.csprojResolveAssemblyReference.cache
+D:\projects\C#OOP-Basic\OOP-Basic\FirstClass\obj\Debug\FirstClass.csproj.CoreCompileInputs.cache
+D:\projects\C#OOP-Basic\OOP-Basic\FirstClass\obj\Debug\FirstClass.exe
+D:\projects\C#OOP-Basic\OOP-Basic\FirstClass\obj\Debug\FirstClass.pdb
