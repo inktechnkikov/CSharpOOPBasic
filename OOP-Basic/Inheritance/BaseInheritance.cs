@@ -10,7 +10,9 @@ namespace Inheritance
     {
         static void Main(string[] args)
         {
-
+            Student student = new Student("Stamat", "Plovdiv", "Softuni");
+            student.print();
+            
         }
     }
 }
