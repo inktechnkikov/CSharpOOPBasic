@@ -1,0 +1,7 @@
+D:\projects\C#OOP-Basic\OOP-Basic\Animals\bin\Debug\Animals.exe.config
+D:\projects\C#OOP-Basic\OOP-Basic\Animals\bin\Debug\Animals.exe
+D:\projects\C#OOP-Basic\OOP-Basic\Animals\bin\Debug\Animals.pdb
+D:\projects\C#OOP-Basic\OOP-Basic\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+D:\projects\C#OOP-Basic\OOP-Basic\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+D:\projects\C#OOP-Basic\OOP-Basic\Animals\obj\Debug\Animals.exe
+D:\projects\C#OOP-Basic\OOP-Basic\Animals\obj\Debug\Animals.pdb
