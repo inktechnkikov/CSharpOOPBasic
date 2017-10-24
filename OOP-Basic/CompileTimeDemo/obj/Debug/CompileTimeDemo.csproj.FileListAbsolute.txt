@@ -1,0 +1,7 @@
+D:\projects\C#OOP-Basic\OOP-Basic\CompileTimeDemo\bin\Debug\CompileTimeDemo.exe.config
+D:\projects\C#OOP-Basic\OOP-Basic\CompileTimeDemo\bin\Debug\CompileTimeDemo.exe
+D:\projects\C#OOP-Basic\OOP-Basic\CompileTimeDemo\bin\Debug\CompileTimeDemo.pdb
+D:\projects\C#OOP-Basic\OOP-Basic\CompileTimeDemo\obj\Debug\CompileTimeDemo.csprojResolveAssemblyReference.cache
+D:\projects\C#OOP-Basic\OOP-Basic\CompileTimeDemo\obj\Debug\CompileTimeDemo.csproj.CoreCompileInputs.cache
+D:\projects\C#OOP-Basic\OOP-Basic\CompileTimeDemo\obj\Debug\CompileTimeDemo.exe
+D:\projects\C#OOP-Basic\OOP-Basic\CompileTimeDemo\obj\Debug\CompileTimeDemo.pdb
